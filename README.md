@@ -1,2 +1,2 @@
 # tronics
-2022 mechatronics project
+2022 solarium project
